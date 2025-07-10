@@ -1,0 +1,21 @@
+CustomerID,Tenure (months),Contract,Monthly Charges,Churn
+2001,1,Month-to-month,70.5,1
+2002,24,Two year,50.3,0
+2003,36,One year,60.2,0
+2004,12,Month-to-month,80.9,1
+2005,5,Month-to-month,78.3,1
+2006,60,Two year,45.6,0
+2007,18,One year,59.1,0
+2008,8,Month-to-month,82.0,1
+2009,30,Two year,48.2,0
+2010,45,One year,62.3,0
+2011,3,Month-to-month,76.1,1
+2012,27,One year,61.0,0
+2013,9,Month-to-month,79.9,1
+2014,40,Two year,47.5,0
+2015,22,One year,58.8,0
+2016,15,Month-to-month,77.0,1
+2017,7,Month-to-month,73.4,1
+2018,55,Two year,49.6,0
+2019,6,Month-to-month,75.2,1
+2020,48,One year,60.7,0
